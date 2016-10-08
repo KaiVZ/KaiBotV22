@@ -1,0 +1,29 @@
+{
+  "PermissionsControllerRole": "Nadeko",
+  "Verbose": true,
+  "Id": 218532827694628875,
+  "Permissions": {
+    "Name": "dinosaurs",
+    "Modules": {
+      "NSFW": true
+    },
+    "Commands": {},
+    "FilterInvites": false,
+    "FilterWords": false
+  },
+  "Words": [],
+  "UserPermissions": {},
+  "ChannelPermissions": {
+    "231974754486190081": {
+      "Name": "nsfw",
+      "Modules": {
+        "NSFW": true
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    }
+  },
+  "RolePermissions": {},
+  "CommandCooldowns": {}
+}
